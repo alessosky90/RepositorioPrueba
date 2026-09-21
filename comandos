@@ -1,0 +1,5 @@
+1. git init - Inicializa un repositorio Git local.
+2. git status - Muestra el estado de los archivos en el directorio de trabajo.
+3. git add . - Añade los archivos modificados al área de preparación.
+4. git commit -m "mensaje" - Guarda los cambios en el historial con un mensaje.
+5. git push origin <rama> - Sube los commits locales al repositorio remoto en GitHub.
